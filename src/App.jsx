@@ -14,7 +14,7 @@ import Account from "./pages/Account";
 import ProtectedRoute from "./pages/ProtectedRoute"; 
 import Orders from "./pages/Orders"
 import "./animation.css";
-import ResetPassword from "./pages/ResetPassword";
+import ResetPassword from "./pages/Resetpassword";
 
 function App() {
   return (
