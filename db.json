@@ -1,0 +1,2222 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "test@example.com",
+      "password": "123456",
+      "name": "Test User"
+    },
+    {
+      "id": "b054",
+      "name": "kayode",
+      "email": "kayodeomoniyi319@gmail.com",
+      "password": "Kayisaac1."
+    },
+    {
+      "id": "71a0",
+      "name": "Raphael",
+      "email": "raphealajayi25@gmail.com",
+      "password": "GODFREYAJAYI25"
+    },
+    {
+      "id": "abcf",
+      "name": "Eniola Alex",
+      "email": "enihorlarharlex@gmail.com",
+      "password": "19892025"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "iPhone 14 Pro",
+      "price": 1200,
+      "description": "The latest iPhone with A16 Bionic chip and Pro camera system.",
+      "image": "/pictures/iphone.png"
+    },
+    {
+      "id": "2",
+      "name": "Samsung Galaxy S23",
+      "price": 999,
+      "description": "Samsung's newest flagship with stunning camera and display.",
+      "image": "/pictures/samsung.png"
+    },
+    {
+      "id": "3",
+      "name": "Sony WH-1000XM5",
+      "price": 350,
+      "description": "Noise-cancelling wireless headphones with premium sound.",
+      "image": "/pictures/Sony.png"
+    },
+    {
+      "id": "4",
+      "name": "MacBook Air M2",
+      "price": 1300,
+      "description": "Apple’s lightweight laptop powered by the new M2 chip.",
+      "image": "/pictures/macbook.png"
+    },
+    {
+      "id": "5",
+      "name": "Apple Watch Series 9",
+      "price": 499,
+      "description": "Smartwatch with health features and iPhone integration.",
+      "image": "/pictures/apple watch.png"
+    },
+    {
+      "id": "6",
+      "name": "hisense 50 inch tv ",
+      "price": 700,
+      "description": "Smartwatch with health features and iPhone integration.",
+      "image": "/pictures/hisense tv.png"
+    },
+    {
+      "id": "7",
+      "name": "Standing Fan",
+      "price": 19.012,
+      "description": "SOLITEC | Similar products from SOLITEC",
+      "image": "/pictures/standing fan.png"
+    },
+    {
+      "id": "8",
+      "name": "2.2 Electric Kettle",
+      "price": 6.1,
+      "description": "Syinix | Similar products from Syinix",
+      "image": "/pictures/electrickettle.png"
+    },
+    {
+      "id": "9",
+      "name": "7.5kg Twin Tub Washing Machine",
+      "price": 190.97,
+      "description": "Hisense | Similar products from Hisense",
+      "image": "/pictures/washing machine.png"
+    },
+    {
+      "id": "10",
+      "name": "20 Litres Microwave (H2OMOWS14)- White with 1 year Warrantly",
+      "price": 120.85,
+      "description": "Hisense | Similar products from Hisense",
+      "image": "/pictures/microwave.png"
+    },
+    {
+      "id": "11",
+      "name": "Apple Watch Series 9",
+      "price": 499,
+      "description": "Smartwatch with health features and iPhone integration.",
+      "image": "/pictures/apple watch.png"
+    },
+    {
+      "id": "12",
+      "name": "1.5HP Split Air Conditioner",
+      "price": 390.55,
+      "description": "Aeon | Similar Products From Aeon",
+      "image": "/pictures/iphone.png"
+    },
+    {
+      "id": "13",
+      "name": " 20000 Mah Ultra Slim Power Bank",
+      "price": 24.99,
+      "description": "Ace Elec | Similar Products From Ace ELect",
+      "image": "/pictures/iphone.png"
+    },
+    {
+      "id": "14",
+      "name": "PS4 SLIM+2PADS+ALL ACCESORIES",
+      "price": 240.45,
+      "description": "Sony | Similar Products From Sony",
+      "image": "/pictures/iphone.png"
+    },
+    {
+      "id": "15",
+      "name": "Hisense 24 inch Monitor ",
+      "price": 390.99,
+      "description": "Smartwatch with health features and iPhone integration.",
+      "image": "/pictures/iphone.png"
+    }
+  ],
+  "cart": [
+    {
+      "id": "1",
+      "name": "iPhone 14 Pro",
+      "price": 1200,
+      "description": "The latest iPhone with A16 Bionic chip and Pro camera system.",
+      "image": "/pictures/iphone.png"
+    },
+    {
+      "id": "2",
+      "name": "Samsung Galaxy S23",
+      "price": 999,
+      "description": "Samsung's newest flagship with stunning camera and display.",
+      "image": "/pictures/samsung.png"
+    },
+    {
+      "id": "3",
+      "name": "Sony WH-1000XM5",
+      "price": 350,
+      "description": "Noise-cancelling wireless headphones with premium sound.",
+      "image": "/pictures/ony.png"
+    },
+    {
+      "id": "2",
+      "name": "Samsung Galaxy S23",
+      "price": 999,
+      "description": "Samsung's newest flagship with stunning camera and display.",
+      "image": "/pictures/samsung.png"
+    },
+    {
+      "id": "2",
+      "name": "Samsung Galaxy S23",
+      "price": 999,
+      "description": "Samsung's newest flagship with stunning camera and display.",
+      "image": "/pictures/samsung.png"
+    },
+    {
+      "id": "3",
+      "name": "Sony WH-1000XM5",
+      "price": 350,
+      "description": "Noise-cancelling wireless headphones with premium sound.",
+      "image": "/pictures/ony.png"
+    },
+    {
+      "id": "1",
+      "name": "iPhone 14 Pro",
+      "price": 1200,
+      "description": "The latest iPhone with A16 Bionic chip and Pro camera system.",
+      "image": "/pictures/iphone.png"
+    },
+    {
+      "id": "2",
+      "name": "Samsung Galaxy S23",
+      "price": 999,
+      "description": "Samsung's newest flagship with stunning camera and display.",
+      "image": "/pictures/samsung.png"
+    },
+    {
+      "id": "3",
+      "name": "Sony WH-1000XM5",
+      "price": 350,
+      "description": "Noise-cancelling wireless headphones with premium sound.",
+      "image": "/pictures/ony.png"
+    },
+    {
+      "id": "1",
+      "name": "iPhone 14 Pro",
+      "price": 1200,
+      "description": "The latest iPhone with A16 Bionic chip and Pro camera system.",
+      "image": "/pictures/iphone.png"
+    },
+    {
+      "id": "2",
+      "name": "Samsung Galaxy S23",
+      "price": 999,
+      "description": "Samsung's newest flagship with stunning camera and display.",
+      "image": "/pictures/samsung.png"
+    },
+    {
+      "id": "3",
+      "name": "Sony WH-1000XM5",
+      "price": 350,
+      "description": "Noise-cancelling wireless headphones with premium sound.",
+      "image": "/pictures/ony.png"
+    },
+    {
+      "id": "2",
+      "name": "Samsung Galaxy S23",
+      "price": 999,
+      "description": "Samsung's newest flagship with stunning camera and display.",
+      "image": "/pictures/samsung.png"
+    },
+    {
+      "id": "1",
+      "name": "iPhone 14 Pro",
+      "price": 1200,
+      "description": "The latest iPhone with A16 Bionic chip and Pro camera system.",
+      "image": "/pictures/iphone.png"
+    },
+    {
+      "id": "2",
+      "name": "Samsung Galaxy S23",
+      "price": 999,
+      "description": "Samsung's newest flagship with stunning camera and display.",
+      "image": "/pictures/samsung.png"
+    },
+    {
+      "id": "6",
+      "name": "hisense 50 inch tv ",
+      "price": 700,
+      "description": "Smartwatch with health features and iPhone integration.",
+      "image": "/pictures/hisense tv.png"
+    },
+    {
+      "id": "2",
+      "name": "Samsung Galaxy S23",
+      "price": 999,
+      "description": "Samsung's newest flagship with stunning camera and display.",
+      "image": "/pictures/samsung.png"
+    },
+    {
+      "id": "1",
+      "name": "iPhone 14 Pro",
+      "price": 1200,
+      "description": "The latest iPhone with A16 Bionic chip and Pro camera system.",
+      "image": "/pictures/iphone.png"
+    },
+    {
+      "id": "2",
+      "name": "Samsung Galaxy S23",
+      "price": 999,
+      "description": "Samsung's newest flagship with stunning camera and display.",
+      "image": "/pictures/samsung.png"
+    }
+  ],
+  "orders": [
+    {
+      "id": "7ca9",
+      "customer": {
+        "name": "kayode",
+        "address": "yemutu, adabale strt",
+        "phone": "9033019846",
+        "email": "kayodeomoniyi15@gmail.com"
+      },
+      "items": [
+        {
+          "id": "2",
+          "name": "Samsung Galaxy S23",
+          "price": 999,
+          "description": "Samsung's newest flagship with stunning camera and display.",
+          "image": "/pictures/samsung.png",
+          "quantity": 2
+        },
+        {
+          "id": "3",
+          "name": "Sony WH-1000XM5",
+          "price": 350,
+          "description": "Noise-cancelling wireless headphones with premium sound.",
+          "image": "/pictures/ony.png",
+          "quantity": 6
+        }
+      ],
+      "total": 4098,
+      "date": "2025-08-20T10:07:29.308Z",
+      "status": "pending"
+    },
+    {
+      "id": "78d8",
+      "customer": {
+        "name": "kayode",
+        "address": "yemutu, adabale strt",
+        "phone": "9033019846",
+        "email": "kolade299605@gmail.com"
+      },
+      "items": [
+        {
+          "id": "3",
+          "name": "Sony WH-1000XM5",
+          "price": 350,
+          "description": "Noise-cancelling wireless headphones with premium sound.",
+          "image": "/pictures/ony.png",
+          "quantity": 3
+        }
+      ],
+      "total": 1050,
+      "date": "2025-08-20T20:06:50.469Z",
+      "status": "pending"
+    },
+    {
+      "id": "ba8b",
+      "customer": {
+        "name": "kayode",
+        "address": "yemutu, adabale strt",
+        "phone": "9033019846",
+        "email": "kayodeomoniyi319@gmail.com"
+      },
+      "items": [
+        {
+          "id": "2",
+          "name": "Samsung Galaxy S23",
+          "price": 999,
+          "description": "Samsung's newest flagship with stunning camera and display.",
+          "image": "/pictures/samsung.png",
+          "quantity": 1
+        },
+        {
+          "id": "1",
+          "name": "iPhone 14 Pro",
+          "price": 1200,
+          "description": "The latest iPhone with A16 Bionic chip and Pro camera system.",
+          "image": "/pictures/iphone.png",
+          "quantity": 1
+        },
+        {
+          "id": "6",
+          "name": "hisense 50 inch tv ",
+          "price": 700,
+          "description": "Smartwatch with health features and iPhone integration.",
+          "image": "/pictures/hisense tv.png",
+          "quantity": 1
+        }
+      ],
+      "total": 2899,
+      "date": "2025-08-20T20:36:15.467Z",
+      "status": "pending"
+    },
+    {
+      "id": "b357",
+      "customer": {
+        "name": "kayode",
+        "address": "yemutu, adabale strt",
+        "phone": "9033019846",
+        "email": "kolade299605@gmail.com"
+      },
+      "items": [
+        {
+          "id": "7",
+          "name": "Standing Fan",
+          "price": 19.012,
+          "description": "SOLITEC | Similar products from SOLITEC",
+          "image": "/pictures/standing fan.png",
+          "quantity": 2
+        },
+        {
+          "id": "13",
+          "name": " 20000 Mah Ultra Slim Power Bank",
+          "price": 24.99,
+          "description": "Ace Elec | Similar Products From Ace ELect",
+          "image": "/pictures/iphone.png",
+          "quantity": 3
+        },
+        {
+          "id": "2",
+          "name": "Samsung Galaxy S23",
+          "price": 999,
+          "description": "Samsung's newest flagship with stunning camera and display.",
+          "image": "/pictures/samsung.png",
+          "quantity": 1
+        },
+        {
+          "id": "5",
+          "name": "Apple Watch Series 9",
+          "price": 499,
+          "description": "Smartwatch with health features and iPhone integration.",
+          "image": "/pictures/apple watch.png",
+          "quantity": 1
+        }
+      ],
+      "total": 1610.994,
+      "date": "2025-08-23T11:34:52.086Z",
+      "status": "pending"
+    },
+    {
+      "id": "3558",
+      "customer": {
+        "name": "olayele",
+        "address": "yemutu, adabale strt",
+        "phone": "09026581498",
+        "email": "kayodeomoniyi319@gmail.com"
+      },
+      "items": [
+        {
+          "id": "14",
+          "name": "PS4 SLIM+2PADS+ALL ACCESORIES",
+          "price": 240.45,
+          "description": "Sony | Similar Products From Sony",
+          "image": "/pictures/iphone.png",
+          "quantity": 1
+        }
+      ],
+      "total": 240.45,
+      "date": "2025-08-23T12:19:25.801Z",
+      "status": "pending"
+    },
+    {
+      "id": "7d00",
+      "customer": {
+        "name": "kayode",
+        "address": "yemutu, adabale strt",
+        "phone": "9033019846",
+        "email": "kolade299605@gmail.com"
+      },
+      "items": [
+        {
+          "id": "1",
+          "name": "iPhone 14 Pro",
+          "price": 1200,
+          "description": "The latest iPhone with A16 Bionic chip and Pro camera system.",
+          "image": "/pictures/iphone.png",
+          "quantity": 1
+        },
+        {
+          "id": "3",
+          "name": "Sony WH-1000XM5",
+          "price": 350,
+          "description": "Noise-cancelling wireless headphones with premium sound.",
+          "image": "/pictures/ony.png",
+          "quantity": 2
+        },
+        {
+          "id": "13",
+          "name": " 20000 Mah Ultra Slim Power Bank",
+          "price": 24.99,
+          "description": "Ace Elec | Similar Products From Ace ELect",
+          "image": "/pictures/iphone.png",
+          "quantity": 3
+        },
+        {
+          "id": "14",
+          "name": "PS4 SLIM+2PADS+ALL ACCESORIES",
+          "price": 240.45,
+          "description": "Sony | Similar Products From Sony",
+          "image": "/pictures/iphone.png",
+          "quantity": 2
+        }
+      ],
+      "total": 2455.87,
+      "date": "2025-08-25T14:16:58.766Z",
+      "status": "pending"
+    },
+    {
+      "id": "acac",
+      "customer": {
+        "name": "kayode",
+        "address": "yemutu, adabale strt",
+        "phone": "9033019846",
+        "email": "kayodeomoniyi319@gmail.com"
+      },
+      "items": [
+        {
+          "id": "10",
+          "name": "20 Litres Microwave (H2OMOWS14)- White with 1 year Warrantly",
+          "price": 120.85,
+          "description": "Hisense | Similar products from Hisense",
+          "image": "/pictures/microwave.png",
+          "quantity": 1
+        },
+        {
+          "id": "15",
+          "name": "Hisense 24 inch Monitor ",
+          "price": 390.99,
+          "description": "Smartwatch with health features and iPhone integration.",
+          "image": "/pictures/iphone.png",
+          "quantity": 3
+        },
+        {
+          "id": "14",
+          "name": "PS4 SLIM+2PADS+ALL ACCESORIES",
+          "price": 240.45,
+          "description": "Sony | Similar Products From Sony",
+          "image": "/pictures/iphone.png",
+          "quantity": 1
+        },
+        {
+          "id": "13",
+          "name": " 20000 Mah Ultra Slim Power Bank",
+          "price": 24.99,
+          "description": "Ace Elec | Similar Products From Ace ELect",
+          "image": "/pictures/iphone.png",
+          "quantity": 3
+        }
+      ],
+      "total": 1609.24,
+      "date": "2025-08-26T08:58:37.841Z",
+      "status": "pending"
+    },
+    {
+      "id": "e8b1",
+      "customer": {
+        "name": "kayode",
+        "address": "yemutu, adabale strt",
+        "phone": "09026581498",
+        "email": "kayodeomoniyi15@gmail.com"
+      },
+      "items": [
+        {
+          "id": "3",
+          "name": "Sony WH-1000XM5",
+          "price": 350,
+          "description": "Noise-cancelling wireless headphones with premium sound.",
+          "image": "/pictures/Sony.png",
+          "quantity": 4
+        }
+      ],
+      "total": 1400,
+      "date": "2025-08-26T11:59:07.932Z",
+      "status": "pending"
+    },
+    {
+      "id": "0580",
+      "customer": {
+        "name": "u1werhc",
+        "address": "enru09v2e",
+        "phone": "we912vn[p4m1",
+        "email": "dwjiqrnvaw08@DNIELM"
+      },
+      "items": [
+        {
+          "id": "9",
+          "name": "7.5kg Twin Tub Washing Machine",
+          "price": 190.97,
+          "description": "Hisense | Similar products from Hisense",
+          "image": "/pictures/washing machine.png",
+          "quantity": 1
+        },
+        {
+          "id": "3",
+          "name": "Sony WH-1000XM5",
+          "price": 350,
+          "description": "Noise-cancelling wireless headphones with premium sound.",
+          "image": "/pictures/Sony.png",
+          "quantity": 1
+        }
+      ],
+      "total": 540.97,
+      "date": "2025-08-27T13:34:00.060Z",
+      "status": "pending"
+    },
+    {
+      "id": "61e6",
+      "customer": {
+        "name": "osawota jennifa",
+        "address": "lagos",
+        "phone": "09026581498",
+        "email": "kayodeomoniyi15@gmail.com"
+      },
+      "items": [
+        {
+          "id": "10",
+          "name": "20 Litres Microwave (H2OMOWS14)- White with 1 year Warrantly",
+          "price": 120.85,
+          "description": "Hisense | Similar products from Hisense",
+          "image": "/pictures/microwave.png",
+          "quantity": 1
+        },
+        {
+          "id": "11",
+          "name": "Apple Watch Series 9",
+          "price": 499,
+          "description": "Smartwatch with health features and iPhone integration.",
+          "image": "/pictures/apple watch.png",
+          "quantity": 1
+        }
+      ],
+      "total": 619.85,
+      "date": "2025-08-27T21:44:20.121Z",
+      "status": "pending"
+    },
+    {
+      "id": "b555",
+      "customer": {
+        "name": "kayode",
+        "address": "yemutu, adabale strt",
+        "phone": "9033019846",
+        "email": "enihorlarharlex@gmail.com"
+      },
+      "items": [
+        {
+          "id": "3",
+          "name": "Sony WH-1000XM5",
+          "price": 350,
+          "description": "Noise-cancelling wireless headphones with premium sound.",
+          "image": "/pictures/Sony.png",
+          "quantity": 3
+        },
+        {
+          "id": "2",
+          "name": "Samsung Galaxy S23",
+          "price": 999,
+          "description": "Samsung's newest flagship with stunning camera and display.",
+          "image": "/pictures/samsung.png",
+          "quantity": 2
+        },
+        {
+          "id": "4",
+          "name": "MacBook Air M2",
+          "price": 1300,
+          "description": "Apple’s lightweight laptop powered by the new M2 chip.",
+          "image": "/pictures/macbook.png",
+          "quantity": 1
+        }
+      ],
+      "total": 4348,
+      "date": "2025-09-01T08:25:33.999Z",
+      "status": "pending"
+    },
+    {
+      "id": "a492",
+      "customer": {
+        "name": "kayode",
+        "address": "yemutu, adabale strt",
+        "phone": "9033019846",
+        "email": "kayodeomoniyi15@gmail.com"
+      },
+      "items": [
+        {
+          "id": "2",
+          "name": "Samsung Galaxy S23",
+          "price": 999,
+          "description": "Samsung's newest flagship with stunning camera and display.",
+          "image": "/pictures/samsung.png",
+          "quantity": 4
+        },
+        {
+          "id": "14",
+          "name": "PS4 SLIM+2PADS+ALL ACCESORIES",
+          "price": 240.45,
+          "description": "Sony | Similar Products From Sony",
+          "image": "/pictures/iphone.png",
+          "quantity": 1
+        },
+        {
+          "id": "13",
+          "name": " 20000 Mah Ultra Slim Power Bank",
+          "price": 24.99,
+          "description": "Ace Elec | Similar Products From Ace ELect",
+          "image": "/pictures/iphone.png",
+          "quantity": 1
+        },
+        {
+          "id": "15",
+          "name": "Hisense 24 inch Monitor ",
+          "price": 390.99,
+          "description": "Smartwatch with health features and iPhone integration.",
+          "image": "/pictures/iphone.png",
+          "quantity": 1
+        }
+      ],
+      "total": 4652.429999999999,
+      "date": "2025-09-01T15:51:19.641Z",
+      "status": "pending"
+    },
+    {
+      "id": "1c57",
+      "customer": {
+        "name": "osawota jennifa",
+        "address": "ibeju lekki",
+        "phone": "9033019846",
+        "email": "kolade299605@gmail.com"
+      },
+      "items": [
+        {
+          "id": "3",
+          "name": "Sony WH-1000XM5",
+          "price": 350,
+          "description": "Noise-cancelling wireless headphones with premium sound.",
+          "image": "/pictures/Sony.png",
+          "quantity": 2
+        },
+        {
+          "id": "1",
+          "name": "iPhone 14 Pro",
+          "price": 1200,
+          "description": "The latest iPhone with A16 Bionic chip and Pro camera system.",
+          "image": "/pictures/iphone.png",
+          "quantity": 4
+        },
+        {
+          "id": "2",
+          "name": "Samsung Galaxy S23",
+          "price": 999,
+          "description": "Samsung's newest flagship with stunning camera and display.",
+          "image": "/pictures/samsung.png",
+          "quantity": 1
+        },
+        {
+          "id": "6",
+          "name": "hisense 50 inch tv ",
+          "price": 700,
+          "description": "Smartwatch with health features and iPhone integration.",
+          "image": "/pictures/hisense tv.png",
+          "quantity": 1
+        },
+        {
+          "id": "5",
+          "name": "Apple Watch Series 9",
+          "price": 499,
+          "description": "Smartwatch with health features and iPhone integration.",
+          "image": "/pictures/apple watch.png",
+          "quantity": 1
+        }
+      ],
+      "total": 7698,
+      "date": "2025-09-03T11:21:56.889Z",
+      "status": "pending"
+    },
+    {
+      "id": "7c3d",
+      "customer": {
+        "name": "osawota jennifa",
+        "address": "yemutu, adabale strt",
+        "phone": "9033019846",
+        "email": "kayodeomoniyi319@gmail.com"
+      },
+      "items": [
+        {
+          "id": "1",
+          "name": "iPhone 14 Pro",
+          "price": 1200,
+          "description": "The latest iPhone with A16 Bionic chip and Pro camera system.",
+          "image": "/pictures/iphone.png",
+          "quantity": 5
+        },
+        {
+          "id": "2",
+          "name": "Samsung Galaxy S23",
+          "price": 999,
+          "description": "Samsung's newest flagship with stunning camera and display.",
+          "image": "/pictures/samsung.png",
+          "quantity": 2
+        },
+        {
+          "id": "6",
+          "name": "hisense 50 inch tv ",
+          "price": 700,
+          "description": "Smartwatch with health features and iPhone integration.",
+          "image": "/pictures/hisense tv.png",
+          "quantity": 2
+        },
+        {
+          "id": "5",
+          "name": "Apple Watch Series 9",
+          "price": 499,
+          "description": "Smartwatch with health features and iPhone integration.",
+          "image": "/pictures/apple watch.png",
+          "quantity": 1
+        }
+      ],
+      "total": 9897,
+      "date": "2025-09-03T11:22:58.218Z",
+      "status": "pending"
+    },
+    {
+      "id": "a9ea",
+      "customer": {
+        "name": "osawota jennifa",
+        "address": "yemutu, adabale strt",
+        "phone": "9033019846",
+        "email": "kayodeomoniyi319@gmail.com"
+      },
+      "items": [
+        {
+          "id": "2",
+          "name": "Samsung Galaxy S23",
+          "price": 999,
+          "description": "Samsung's newest flagship with stunning camera and display.",
+          "image": "/pictures/samsung.png",
+          "quantity": 4
+        },
+        {
+          "id": "1",
+          "name": "iPhone 14 Pro",
+          "price": 1200,
+          "description": "The latest iPhone with A16 Bionic chip and Pro camera system.",
+          "image": "/pictures/iphone.png",
+          "quantity": 2
+        }
+      ],
+      "total": 6396,
+      "date": "2025-09-03T11:27:33.903Z",
+      "status": "pending"
+    },
+    {
+      "id": "f9bd",
+      "customer": {
+        "name": "osawota jennifa",
+        "address": "yemutu, adabale strt",
+        "phone": "9033019846",
+        "email": "kolade299605@gmail.com"
+      },
+      "items": [
+        {
+          "id": "3",
+          "name": "Sony WH-1000XM5",
+          "price": 350,
+          "description": "Noise-cancelling wireless headphones with premium sound.",
+          "image": "/pictures/Sony.png",
+          "quantity": 1
+        },
+        {
+          "id": "4",
+          "name": "MacBook Air M2",
+          "price": 1300,
+          "description": "Apple’s lightweight laptop powered by the new M2 chip.",
+          "image": "/pictures/macbook.png",
+          "quantity": 2
+        },
+        {
+          "id": "5",
+          "name": "Apple Watch Series 9",
+          "price": 499,
+          "description": "Smartwatch with health features and iPhone integration.",
+          "image": "/pictures/apple watch.png",
+          "quantity": 1
+        }
+      ],
+      "total": 3449,
+      "date": "2025-09-03T12:00:36.132Z",
+      "status": "pending"
+    },
+    {
+      "id": "6e0d",
+      "customer": {
+        "name": "osawota jennifa",
+        "address": "yemutu, adabale strt",
+        "phone": "9033019846",
+        "email": "kayodeomoniyi15@gmail.com"
+      },
+      "items": [
+        {
+          "id": "1",
+          "name": "iPhone 14 Pro",
+          "price": 1200,
+          "description": "The latest iPhone with A16 Bionic chip and Pro camera system.",
+          "image": "/pictures/iphone.png",
+          "quantity": 3
+        },
+        {
+          "id": "2",
+          "name": "Samsung Galaxy S23",
+          "price": 999,
+          "description": "Samsung's newest flagship with stunning camera and display.",
+          "image": "/pictures/samsung.png",
+          "quantity": 2
+        },
+        {
+          "id": "3",
+          "name": "Sony WH-1000XM5",
+          "price": 350,
+          "description": "Noise-cancelling wireless headphones with premium sound.",
+          "image": "/pictures/Sony.png",
+          "quantity": 2
+        }
+      ],
+      "total": 6298,
+      "date": "2025-09-04T08:37:52.382Z",
+      "status": "pending"
+    },
+    {
+      "id": "97ef",
+      "customer": {
+        "name": "osawota jennifa",
+        "email": "kayodeomoniyi319@gmail.com",
+        "phone": "9033019846",
+        "address": "yemutu, adabale strt"
+      },
+      "items": [
+        {
+          "id": "3",
+          "name": "Sony WH-1000XM5",
+          "price": 350,
+          "description": "Noise-cancelling wireless headphones with premium sound.",
+          "image": "/pictures/Sony.png",
+          "quantity": 13
+        },
+        {
+          "id": "2",
+          "name": "Samsung Galaxy S23",
+          "price": 999,
+          "description": "Samsung's newest flagship with stunning camera and display.",
+          "image": "/pictures/samsung.png",
+          "quantity": 1
+        },
+        {
+          "id": "1",
+          "name": "iPhone 14 Pro",
+          "price": 1200,
+          "description": "The latest iPhone with A16 Bionic chip and Pro camera system.",
+          "image": "/pictures/iphone.png",
+          "quantity": 1
+        },
+        {
+          "id": "5",
+          "name": "Apple Watch Series 9",
+          "price": 499,
+          "description": "Smartwatch with health features and iPhone integration.",
+          "image": "/pictures/apple watch.png",
+          "quantity": 1
+        },
+        {
+          "id": "4",
+          "name": "MacBook Air M2",
+          "price": 1300,
+          "description": "Apple’s lightweight laptop powered by the new M2 chip.",
+          "image": "/pictures/macbook.png",
+          "quantity": 1
+        },
+        {
+          "id": "6",
+          "name": "hisense 50 inch tv ",
+          "price": 700,
+          "description": "Smartwatch with health features and iPhone integration.",
+          "image": "/pictures/hisense tv.png",
+          "quantity": 1
+        },
+        {
+          "id": "12",
+          "name": "1.5HP Split Air Conditioner",
+          "price": 390.55,
+          "description": "Aeon | Similar Products From Aeon",
+          "image": "/pictures/iphone.png",
+          "quantity": 2
+        },
+        {
+          "id": "11",
+          "name": "Apple Watch Series 9",
+          "price": 499,
+          "description": "Smartwatch with health features and iPhone integration.",
+          "image": "/pictures/apple watch.png",
+          "quantity": 2
+        },
+        {
+          "id": "10",
+          "name": "20 Litres Microwave (H2OMOWS14)- White with 1 year Warrantly",
+          "price": 120.85,
+          "description": "Hisense | Similar products from Hisense",
+          "image": "/pictures/microwave.png",
+          "quantity": 1
+        }
+      ],
+      "total": 11147.95,
+      "date": "2025-09-04T10:43:34.222Z",
+      "status": "paid",
+      "reference": "19871612"
+    },
+    {
+      "id": "8def",
+      "customer": {
+        "name": "osawota jennifa",
+        "email": "kayodeomoniyi319@gmail.com",
+        "phone": "9033019846",
+        "address": "yemutu, adabale strt"
+      },
+      "items": [
+        {
+          "id": "2",
+          "name": "Samsung Galaxy S23",
+          "price": 999,
+          "description": "Samsung's newest flagship with stunning camera and display.",
+          "image": "/pictures/samsung.png"
+        },
+        {
+          "id": "3",
+          "name": "Sony WH-1000XM5",
+          "price": 350,
+          "description": "Noise-cancelling wireless headphones with premium sound.",
+          "image": "/pictures/Sony.png"
+        },
+        {
+          "id": "1",
+          "name": "iPhone 14 Pro",
+          "price": 1200,
+          "description": "The latest iPhone with A16 Bionic chip and Pro camera system.",
+          "image": "/pictures/iphone.png"
+        },
+        {
+          "id": "5",
+          "name": "Apple Watch Series 9",
+          "price": 499,
+          "description": "Smartwatch with health features and iPhone integration.",
+          "image": "/pictures/apple watch.png"
+        },
+        {
+          "id": "2",
+          "name": "Samsung Galaxy S23",
+          "price": 999,
+          "description": "Samsung's newest flagship with stunning camera and display.",
+          "image": "/pictures/samsung.png"
+        },
+        {
+          "id": "2",
+          "name": "Samsung Galaxy S23",
+          "price": 999,
+          "description": "Samsung's newest flagship with stunning camera and display.",
+          "image": "/pictures/samsung.png"
+        },
+        {
+          "id": "2",
+          "name": "Samsung Galaxy S23",
+          "price": 999,
+          "description": "Samsung's newest flagship with stunning camera and display.",
+          "image": "/pictures/samsung.png"
+        },
+        {
+          "id": "2",
+          "name": "Samsung Galaxy S23",
+          "price": 999,
+          "description": "Samsung's newest flagship with stunning camera and display.",
+          "image": "/pictures/samsung.png"
+        },
+        {
+          "id": "2",
+          "name": "Samsung Galaxy S23",
+          "price": 999,
+          "description": "Samsung's newest flagship with stunning camera and display.",
+          "image": "/pictures/samsung.png"
+        },
+        {
+          "id": "2",
+          "name": "Samsung Galaxy S23",
+          "price": 999,
+          "description": "Samsung's newest flagship with stunning camera and display.",
+          "image": "/pictures/samsung.png"
+        },
+        {
+          "id": "2",
+          "name": "Samsung Galaxy S23",
+          "price": 999,
+          "description": "Samsung's newest flagship with stunning camera and display.",
+          "image": "/pictures/samsung.png"
+        },
+        {
+          "id": "2",
+          "name": "Samsung Galaxy S23",
+          "price": 999,
+          "description": "Samsung's newest flagship with stunning camera and display.",
+          "image": "/pictures/samsung.png"
+        },
+        {
+          "id": "2",
+          "name": "Samsung Galaxy S23",
+          "price": 999,
+          "description": "Samsung's newest flagship with stunning camera and display.",
+          "image": "/pictures/samsung.png"
+        },
+        {
+          "id": "2",
+          "name": "Samsung Galaxy S23",
+          "price": 999,
+          "description": "Samsung's newest flagship with stunning camera and display.",
+          "image": "/pictures/samsung.png"
+        }
+      ],
+      "total": 13038,
+      "date": "2025-09-04T10:51:06.238Z",
+      "status": "paid",
+      "reference": "786881620"
+    },
+    {
+      "id": "9fd2",
+      "customer": {
+        "name": "osawota jennifa",
+        "email": "kayodeomoniyi319@gmail.com",
+        "phone": "9033019846",
+        "address": "yemutu, adabale strt"
+      },
+      "items": [
+        {
+          "id": "2",
+          "name": "Samsung Galaxy S23",
+          "price": 999,
+          "description": "Samsung's newest flagship with stunning camera and display.",
+          "image": "/pictures/samsung.png"
+        },
+        {
+          "id": "2",
+          "name": "Samsung Galaxy S23",
+          "price": 999,
+          "description": "Samsung's newest flagship with stunning camera and display.",
+          "image": "/pictures/samsung.png"
+        },
+        {
+          "id": "2",
+          "name": "Samsung Galaxy S23",
+          "price": 999,
+          "description": "Samsung's newest flagship with stunning camera and display.",
+          "image": "/pictures/samsung.png"
+        },
+        {
+          "id": "2",
+          "name": "Samsung Galaxy S23",
+          "price": 999,
+          "description": "Samsung's newest flagship with stunning camera and display.",
+          "image": "/pictures/samsung.png"
+        },
+        {
+          "id": "2",
+          "name": "Samsung Galaxy S23",
+          "price": 999,
+          "description": "Samsung's newest flagship with stunning camera and display.",
+          "image": "/pictures/samsung.png"
+        },
+        {
+          "id": "2",
+          "name": "Samsung Galaxy S23",
+          "price": 999,
+          "description": "Samsung's newest flagship with stunning camera and display.",
+          "image": "/pictures/samsung.png"
+        },
+        {
+          "id": "3",
+          "name": "Sony WH-1000XM5",
+          "price": 350,
+          "description": "Noise-cancelling wireless headphones with premium sound.",
+          "image": "/pictures/Sony.png"
+        },
+        {
+          "id": "3",
+          "name": "Sony WH-1000XM5",
+          "price": 350,
+          "description": "Noise-cancelling wireless headphones with premium sound.",
+          "image": "/pictures/Sony.png"
+        },
+        {
+          "id": "1",
+          "name": "iPhone 14 Pro",
+          "price": 1200,
+          "description": "The latest iPhone with A16 Bionic chip and Pro camera system.",
+          "image": "/pictures/iphone.png"
+        }
+      ],
+      "total": 7894,
+      "date": "2025-09-04T10:51:40.568Z",
+      "status": "paid",
+      "reference": "483223732"
+    },
+    {
+      "id": "4efd",
+      "customer": {
+        "name": "osawota jennifa",
+        "email": "kolade299605@gmail.com",
+        "phone": "9033019846",
+        "address": "yemutu, adabale strt"
+      },
+      "items": [
+        {
+          "id": "2",
+          "name": "Samsung Galaxy S23",
+          "price": 999,
+          "description": "Samsung's newest flagship with stunning camera and display.",
+          "image": "/pictures/samsung.png",
+          "quantity": 2
+        },
+        {
+          "id": "3",
+          "name": "Sony WH-1000XM5",
+          "price": 350,
+          "description": "Noise-cancelling wireless headphones with premium sound.",
+          "image": "/pictures/Sony.png",
+          "quantity": 3
+        }
+      ],
+      "total": 3048,
+      "date": "2025-09-04T10:57:12.734Z",
+      "status": "paid",
+      "reference": "437441490"
+    },
+    {
+      "id": "10bc",
+      "customer": {
+        "name": "osawota jennifa",
+        "email": "kayodeomoniyi319@gmail.com",
+        "phone": "9033019846",
+        "address": "yemutu, adabale strt"
+      },
+      "items": [
+        {
+          "id": "1",
+          "name": "iPhone 14 Pro",
+          "price": 1200,
+          "description": "The latest iPhone with A16 Bionic chip and Pro camera system.",
+          "image": "/pictures/iphone.png",
+          "quantity": 2
+        },
+        {
+          "id": "2",
+          "name": "Samsung Galaxy S23",
+          "price": 999,
+          "description": "Samsung's newest flagship with stunning camera and display.",
+          "image": "/pictures/samsung.png",
+          "quantity": 3
+        },
+        {
+          "id": "3",
+          "name": "Sony WH-1000XM5",
+          "price": 350,
+          "description": "Noise-cancelling wireless headphones with premium sound.",
+          "image": "/pictures/Sony.png",
+          "quantity": 2
+        },
+        {
+          "id": "5",
+          "name": "Apple Watch Series 9",
+          "price": 499,
+          "description": "Smartwatch with health features and iPhone integration.",
+          "image": "/pictures/apple watch.png",
+          "quantity": 3
+        }
+      ],
+      "total": 7594,
+      "date": "2025-09-04T13:25:21.888Z",
+      "status": "paid",
+      "reference": "104769711"
+    },
+    {
+      "id": "319c",
+      "customer": {
+        "name": "osawota jennifa",
+        "email": "enihorlarharlex@gmail.com",
+        "phone": "09033019846",
+        "address": "yemutu, adabale strt"
+      },
+      "items": [
+        {
+          "id": "3",
+          "name": "Sony WH-1000XM5",
+          "price": 350,
+          "description": "Noise-cancelling wireless headphones with premium sound.",
+          "image": "/pictures/Sony.png",
+          "quantity": 3
+        },
+        {
+          "id": "2",
+          "name": "Samsung Galaxy S23",
+          "price": 999,
+          "description": "Samsung's newest flagship with stunning camera and display.",
+          "image": "/pictures/samsung.png",
+          "quantity": 6
+        },
+        {
+          "id": "1",
+          "name": "iPhone 14 Pro",
+          "price": 1200,
+          "description": "The latest iPhone with A16 Bionic chip and Pro camera system.",
+          "image": "/pictures/iphone.png",
+          "quantity": 8
+        },
+        {
+          "id": "4",
+          "name": "MacBook Air M2",
+          "price": 1300,
+          "description": "Apple’s lightweight laptop powered by the new M2 chip.",
+          "image": "/pictures/macbook.png",
+          "quantity": 2
+        }
+      ],
+      "total": 19244,
+      "date": "2025-09-04T13:32:56.813Z",
+      "status": "paid",
+      "reference": "407150958"
+    },
+    {
+      "id": "e982",
+      "customer": {
+        "name": "osawota jennifa",
+        "email": "kayodeomoniyi15@gmail.com",
+        "phone": "9033019846",
+        "address": "yemutu, adabale strt"
+      },
+      "items": [
+        {
+          "id": 3,
+          "name": "Sony WH-1000XM5",
+          "price": 350,
+          "description": "Noise-cancelling wireless headphones with premium sound.",
+          "image": "/pictures/Sony.png",
+          "quantity": 4
+        },
+        {
+          "id": 2,
+          "name": "Samsung Galaxy S23",
+          "price": 999,
+          "description": "Samsung's newest flagship with stunning camera and display.",
+          "image": "/pictures/samsung.png",
+          "quantity": 5
+        },
+        {
+          "id": 1,
+          "name": "iPhone 14 Pro",
+          "price": 1200,
+          "description": "The latest iPhone with A16 Bionic chip and Pro camera system.",
+          "image": "/pictures/iphone.png",
+          "quantity": 3
+        },
+        {
+          "id": 4,
+          "name": "MacBook Air M2",
+          "price": 1300,
+          "description": "Apple’s lightweight laptop powered by the new M2 chip.",
+          "image": "/pictures/macbook.png",
+          "quantity": 3
+        },
+        {
+          "id": 5,
+          "name": "Apple Watch Series 9",
+          "price": 499,
+          "description": "Smartwatch with health features and iPhone integration.",
+          "image": "/pictures/apple watch.png",
+          "quantity": 1
+        }
+      ],
+      "total": 14394,
+      "date": "2025-09-05T13:32:14.170Z",
+      "status": "paid",
+      "reference": "680699991"
+    },
+    {
+      "id": "50c3",
+      "customer": {
+        "name": "Aanuoluwapo elizabeth",
+        "email": "oluwapoakinyoola101@gmail.com",
+        "phone": "09069272351",
+        "address": "ilupeju avenue"
+      },
+      "items": [
+        {
+          "id": "11",
+          "name": "Apple Watch Series 9",
+          "price": 499,
+          "description": "Smartwatch with health features and iPhone integration.",
+          "image": "/pictures/apple watch.png",
+          "quantity": 1
+        },
+        {
+          "id": "10",
+          "name": "20 Litres Microwave (H2OMOWS14)- White with 1 year Warrantly",
+          "price": 120.85,
+          "description": "Hisense | Similar products from Hisense",
+          "image": "/pictures/microwave.png",
+          "quantity": 2
+        },
+        {
+          "id": "12",
+          "name": "1.5HP Split Air Conditioner",
+          "price": 390.55,
+          "description": "Aeon | Similar Products From Aeon",
+          "image": "/pictures/iphone.png",
+          "quantity": 1
+        },
+        {
+          "id": "9",
+          "name": "7.5kg Twin Tub Washing Machine",
+          "price": 190.97,
+          "description": "Hisense | Similar products from Hisense",
+          "image": "/pictures/washing machine.png",
+          "quantity": 2
+        },
+        {
+          "id": "8",
+          "name": "2.2 Electric Kettle",
+          "price": 6.1,
+          "description": "Syinix | Similar products from Syinix",
+          "image": "/pictures/electrickettle.png",
+          "quantity": 6
+        },
+        {
+          "id": "5",
+          "name": "Apple Watch Series 9",
+          "price": 499,
+          "description": "Smartwatch with health features and iPhone integration.",
+          "image": "/pictures/apple watch.png",
+          "quantity": 1
+        },
+        {
+          "id": "4",
+          "name": "MacBook Air M2",
+          "price": 1300,
+          "description": "Apple’s lightweight laptop powered by the new M2 chip.",
+          "image": "/pictures/macbook.png",
+          "quantity": 1
+        },
+        {
+          "id": "2",
+          "name": "Samsung Galaxy S23",
+          "price": 999,
+          "description": "Samsung's newest flagship with stunning camera and display.",
+          "image": "/pictures/samsung.png",
+          "quantity": 1
+        },
+        {
+          "id": "3",
+          "name": "Sony WH-1000XM5",
+          "price": 350,
+          "description": "Noise-cancelling wireless headphones with premium sound.",
+          "image": "/pictures/Sony.png",
+          "quantity": 1
+        },
+        {
+          "id": "1",
+          "name": "iPhone 14 Pro",
+          "price": 1200,
+          "description": "The latest iPhone with A16 Bionic chip and Pro camera system.",
+          "image": "/pictures/iphone.png",
+          "quantity": 1
+        }
+      ],
+      "total": 5897.79,
+      "date": "2025-09-05T16:26:23.167Z",
+      "status": "paid",
+      "reference": "229310003"
+    },
+    {
+      "id": "5d25",
+      "customer": {
+        "name": "osawota jennifa",
+        "email": "kayodeomoniyi319@gmail.com",
+        "phone": "9033019846",
+        "address": "yemutu, adabale strt"
+      },
+      "items": [
+        {
+          "id": "1",
+          "name": "iPhone 14 Pro",
+          "price": 1200,
+          "description": "The latest iPhone with A16 Bionic chip and Pro camera system.",
+          "image": "/pictures/iphone.png",
+          "quantity": 2
+        },
+        {
+          "id": "2",
+          "name": "Samsung Galaxy S23",
+          "price": 999,
+          "description": "Samsung's newest flagship with stunning camera and display.",
+          "image": "/pictures/samsung.png",
+          "quantity": 2
+        },
+        {
+          "id": "3",
+          "name": "Sony WH-1000XM5",
+          "price": 350,
+          "description": "Noise-cancelling wireless headphones with premium sound.",
+          "image": "/pictures/Sony.png",
+          "quantity": 2
+        },
+        {
+          "id": "5",
+          "name": "Apple Watch Series 9",
+          "price": 499,
+          "description": "Smartwatch with health features and iPhone integration.",
+          "image": "/pictures/apple watch.png",
+          "quantity": 2
+        },
+        {
+          "id": "4",
+          "name": "MacBook Air M2",
+          "price": 1300,
+          "description": "Apple’s lightweight laptop powered by the new M2 chip.",
+          "image": "/pictures/macbook.png",
+          "quantity": 2
+        },
+        {
+          "id": "6",
+          "name": "hisense 50 inch tv ",
+          "price": 700,
+          "description": "Smartwatch with health features and iPhone integration.",
+          "image": "/pictures/hisense tv.png",
+          "quantity": 2
+        }
+      ],
+      "total": 10096,
+      "date": "2025-09-05T16:31:28.466Z",
+      "status": "paid",
+      "reference": "269386592"
+    },
+    {
+      "id": "e4fc",
+      "customer": {
+        "name": "osawota jennifa",
+        "email": "kayodeomoniyi319@gmail.com",
+        "phone": "9033019846",
+        "address": "yemutu, adabale strt"
+      },
+      "items": [
+        {
+          "id": "3",
+          "name": "Sony WH-1000XM5",
+          "price": 350,
+          "description": "Noise-cancelling wireless headphones with premium sound.",
+          "image": "/pictures/Sony.png",
+          "quantity": 1
+        },
+        {
+          "id": "2",
+          "name": "Samsung Galaxy S23",
+          "price": 999,
+          "description": "Samsung's newest flagship with stunning camera and display.",
+          "image": "/pictures/samsung.png",
+          "quantity": 1
+        },
+        {
+          "id": "1",
+          "name": "iPhone 14 Pro",
+          "price": 1200,
+          "description": "The latest iPhone with A16 Bionic chip and Pro camera system.",
+          "image": "/pictures/iphone.png",
+          "quantity": 1
+        }
+      ],
+      "total": 2549,
+      "date": "2025-09-08T11:10:04.511Z",
+      "status": "paid",
+      "reference": "234337484"
+    },
+    {
+      "id": "a88a",
+      "customer": {
+        "name": "estrtyiuop[p][p",
+        "email": "erstiuopo@gmail.com",
+        "phone": "09033019846",
+        "address": "etsrdyuiopo[p"
+      },
+      "items": [
+        {
+          "id": "2",
+          "name": "Samsung Galaxy S23",
+          "price": 999,
+          "description": "Samsung's newest flagship with stunning camera and display.",
+          "image": "/pictures/samsung.png",
+          "quantity": 3
+        },
+        {
+          "id": "1",
+          "name": "iPhone 14 Pro",
+          "price": 1200,
+          "description": "The latest iPhone with A16 Bionic chip and Pro camera system.",
+          "image": "/pictures/iphone.png",
+          "quantity": 2
+        },
+        {
+          "id": "5",
+          "name": "Apple Watch Series 9",
+          "price": 499,
+          "description": "Smartwatch with health features and iPhone integration.",
+          "image": "/pictures/apple watch.png",
+          "quantity": 1
+        }
+      ],
+      "total": 5896,
+      "date": "2025-09-08T11:58:15.244Z",
+      "status": "paid",
+      "reference": "704111224"
+    },
+    {
+      "id": "66e1",
+      "customer": {
+        "name": "akinpeju ayomide",
+        "email": "kayodeomoniyi15@gmail.com",
+        "phone": "9033019846",
+        "address": "yemutu, adabale strt"
+      },
+      "items": [
+        {
+          "id": "2",
+          "name": "Samsung Galaxy S23",
+          "price": 999,
+          "description": "Samsung's newest flagship with stunning camera and display.",
+          "image": "/pictures/samsung.png",
+          "quantity": 5
+        },
+        {
+          "id": "1",
+          "name": "iPhone 14 Pro",
+          "price": 1200,
+          "description": "The latest iPhone with A16 Bionic chip and Pro camera system.",
+          "image": "/pictures/iphone.png",
+          "quantity": 5
+        },
+        {
+          "id": "3",
+          "name": "Sony WH-1000XM5",
+          "price": 350,
+          "description": "Noise-cancelling wireless headphones with premium sound.",
+          "image": "/pictures/Sony.png",
+          "quantity": 5
+        },
+        {
+          "id": "6",
+          "name": "hisense 50 inch tv ",
+          "price": 700,
+          "description": "Smartwatch with health features and iPhone integration.",
+          "image": "/pictures/hisense tv.png",
+          "quantity": 3
+        },
+        {
+          "id": "5",
+          "name": "Apple Watch Series 9",
+          "price": 499,
+          "description": "Smartwatch with health features and iPhone integration.",
+          "image": "/pictures/apple watch.png",
+          "quantity": 6
+        },
+        {
+          "id": "4",
+          "name": "MacBook Air M2",
+          "price": 1300,
+          "description": "Apple’s lightweight laptop powered by the new M2 chip.",
+          "image": "/pictures/macbook.png",
+          "quantity": 5
+        },
+        {
+          "id": "8",
+          "name": "2.2 Electric Kettle",
+          "price": 6.1,
+          "description": "Syinix | Similar products from Syinix",
+          "image": "/pictures/electrickettle.png",
+          "quantity": 4
+        },
+        {
+          "id": "7",
+          "name": "Standing Fan",
+          "price": 19.012,
+          "description": "SOLITEC | Similar products from SOLITEC",
+          "image": "/pictures/standing fan.png",
+          "quantity": 3
+        },
+        {
+          "id": "9",
+          "name": "7.5kg Twin Tub Washing Machine",
+          "price": 190.97,
+          "description": "Hisense | Similar products from Hisense",
+          "image": "/pictures/washing machine.png",
+          "quantity": 3
+        },
+        {
+          "id": "12",
+          "name": "1.5HP Split Air Conditioner",
+          "price": 390.55,
+          "description": "Aeon | Similar Products From Aeon",
+          "image": "/pictures/iphone.png",
+          "quantity": 3
+        },
+        {
+          "id": "11",
+          "name": "Apple Watch Series 9",
+          "price": 499,
+          "description": "Smartwatch with health features and iPhone integration.",
+          "image": "/pictures/apple watch.png",
+          "quantity": 2
+        },
+        {
+          "id": "10",
+          "name": "20 Litres Microwave (H2OMOWS14)- White with 1 year Warrantly",
+          "price": 120.85,
+          "description": "Hisense | Similar products from Hisense",
+          "image": "/pictures/microwave.png",
+          "quantity": 2
+        },
+        {
+          "id": "13",
+          "name": " 20000 Mah Ultra Slim Power Bank",
+          "price": 24.99,
+          "description": "Ace Elec | Similar Products From Ace ELect",
+          "image": "/pictures/iphone.png",
+          "quantity": 4
+        },
+        {
+          "id": "14",
+          "name": "PS4 SLIM+2PADS+ALL ACCESORIES",
+          "price": 240.45,
+          "description": "Sony | Similar Products From Sony",
+          "image": "/pictures/iphone.png",
+          "quantity": 6
+        },
+        {
+          "id": "15",
+          "name": "Hisense 24 inch Monitor ",
+          "price": 390.99,
+          "description": "Smartwatch with health features and iPhone integration.",
+          "image": "/pictures/iphone.png",
+          "quantity": 3
+        }
+      ],
+      "total": 30120.326000000005,
+      "date": "2025-09-09T14:02:45.241Z",
+      "status": "paid",
+      "reference": "17151964"
+    },
+    {
+      "id": "2633",
+      "customer": {
+        "name": "osawota jennifa",
+        "email": "kayodeomoniyi319@gmail.com",
+        "phone": "9033019846",
+        "address": "yemutu, adabale strt"
+      },
+      "items": [
+        {
+          "id": "7",
+          "name": "Standing Fan",
+          "price": 19.012,
+          "description": "SOLITEC | Similar products from SOLITEC",
+          "image": "/pictures/standing fan.png",
+          "quantity": 6
+        },
+        {
+          "id": "11",
+          "name": "Apple Watch Series 9",
+          "price": 499,
+          "description": "Smartwatch with health features and iPhone integration.",
+          "image": "/pictures/apple watch.png",
+          "quantity": 1
+        },
+        {
+          "id": "3",
+          "name": "Sony WH-1000XM5",
+          "price": 350,
+          "description": "Noise-cancelling wireless headphones with premium sound.",
+          "image": "/pictures/Sony.png",
+          "quantity": 1
+        },
+        {
+          "id": "2",
+          "name": "Samsung Galaxy S23",
+          "price": 999,
+          "description": "Samsung's newest flagship with stunning camera and display.",
+          "image": "/pictures/samsung.png",
+          "quantity": 1
+        },
+        {
+          "id": "1",
+          "name": "iPhone 14 Pro",
+          "price": 1200,
+          "description": "The latest iPhone with A16 Bionic chip and Pro camera system.",
+          "image": "/pictures/iphone.png",
+          "quantity": 5
+        },
+        {
+          "id": "15",
+          "name": "Hisense 24 inch Monitor ",
+          "price": 390.99,
+          "description": "Smartwatch with health features and iPhone integration.",
+          "image": "/pictures/iphone.png",
+          "quantity": 8
+        },
+        {
+          "id": "14",
+          "name": "PS4 SLIM+2PADS+ALL ACCESORIES",
+          "price": 240.45,
+          "description": "Sony | Similar Products From Sony",
+          "image": "/pictures/iphone.png",
+          "quantity": 7
+        },
+        {
+          "id": "13",
+          "name": " 20000 Mah Ultra Slim Power Bank",
+          "price": 24.99,
+          "description": "Ace Elec | Similar Products From Ace ELect",
+          "image": "/pictures/iphone.png",
+          "quantity": 4
+        },
+        {
+          "id": "8",
+          "name": "2.2 Electric Kettle",
+          "price": 6.1,
+          "description": "Syinix | Similar products from Syinix",
+          "image": "/pictures/electrickettle.png",
+          "quantity": 6
+        },
+        {
+          "id": "10",
+          "name": "20 Litres Microwave (H2OMOWS14)- White with 1 year Warrantly",
+          "price": 120.85,
+          "description": "Hisense | Similar products from Hisense",
+          "image": "/pictures/microwave.png",
+          "quantity": 4
+        },
+        {
+          "id": "4",
+          "name": "MacBook Air M2",
+          "price": 1300,
+          "description": "Apple’s lightweight laptop powered by the new M2 chip.",
+          "image": "/pictures/macbook.png",
+          "quantity": 6
+        }
+      ],
+      "total": 21193.102,
+      "date": "2025-09-12T13:50:53.853Z",
+      "status": "paid",
+      "reference": "946718192"
+    },
+    {
+      "id": "3f3e",
+      "customer": {
+        "name": "kayode",
+        "email": "kayodeomoniyi319@gmail.com",
+        "phone": "9033019846",
+        "address": "yemutu, adabale strt"
+      },
+      "items": [
+        {
+          "id": "5",
+          "name": "Apple Watch Series 9",
+          "price": 499,
+          "description": "Smartwatch with health features and iPhone integration.",
+          "image": "/pictures/apple watch.png",
+          "quantity": 1
+        },
+        {
+          "id": "4",
+          "name": "MacBook Air M2",
+          "price": 1300,
+          "description": "Apple’s lightweight laptop powered by the new M2 chip.",
+          "image": "/pictures/macbook.png",
+          "quantity": 1
+        },
+        {
+          "id": "6",
+          "name": "hisense 50 inch tv ",
+          "price": 700,
+          "description": "Smartwatch with health features and iPhone integration.",
+          "image": "/pictures/hisense tv.png",
+          "quantity": 1
+        }
+      ],
+      "total": 2499,
+      "date": "2025-09-15T11:42:13.367Z",
+      "status": "paid",
+      "reference": "724780534"
+    },
+    {
+      "id": "d215",
+      "customer": {
+        "name": "kayode",
+        "email": "kayodeomoniyi319@gmail.com",
+        "phone": "9033019846",
+        "address": "yemutu, adabale strt"
+      },
+      "items": [
+        {
+          "id": "1",
+          "name": "iPhone 14 Pro",
+          "price": 1200,
+          "description": "The latest iPhone with A16 Bionic chip and Pro camera system.",
+          "image": "/pictures/iphone.png",
+          "quantity": 1
+        },
+        {
+          "id": "2",
+          "name": "Samsung Galaxy S23",
+          "price": 999,
+          "description": "Samsung's newest flagship with stunning camera and display.",
+          "image": "/pictures/samsung.png",
+          "quantity": 1
+        },
+        {
+          "id": "3",
+          "name": "Sony WH-1000XM5",
+          "price": 350,
+          "description": "Noise-cancelling wireless headphones with premium sound.",
+          "image": "/pictures/Sony.png",
+          "quantity": 1
+        }
+      ],
+      "total": 2549,
+      "date": "2025-09-15T12:12:38.148Z",
+      "status": "paid",
+      "reference": "278242389"
+    },
+    {
+      "id": "1bb0",
+      "customer": {
+        "name": "kayode",
+        "email": "kayodeomoniyi15@gmail.com",
+        "phone": "09026581498",
+        "address": "yemutu, adabale strt"
+      },
+      "items": [
+        {
+          "id": "1",
+          "name": "iPhone 14 Pro",
+          "price": 1200,
+          "description": "The latest iPhone with A16 Bionic chip and Pro camera system.",
+          "image": "/pictures/iphone.png",
+          "quantity": 1
+        },
+        {
+          "id": "2",
+          "name": "Samsung Galaxy S23",
+          "price": 999,
+          "description": "Samsung's newest flagship with stunning camera and display.",
+          "image": "/pictures/samsung.png",
+          "quantity": 1
+        }
+      ],
+      "total": 2199,
+      "date": "2025-09-15T12:25:00.829Z",
+      "status": "paid",
+      "reference": "610642087"
+    },
+    {
+      "id": "6ba9",
+      "customer": {
+        "name": "kayode",
+        "email": "kayodeomoniyi15@gmail.com",
+        "phone": "9033019846",
+        "address": "yemutu, adabale strt"
+      },
+      "items": [
+        {
+          "id": "3",
+          "name": "Sony WH-1000XM5",
+          "price": 350,
+          "description": "Noise-cancelling wireless headphones with premium sound.",
+          "image": "/pictures/Sony.png",
+          "quantity": 6
+        },
+        {
+          "id": "2",
+          "name": "Samsung Galaxy S23",
+          "price": 999,
+          "description": "Samsung's newest flagship with stunning camera and display.",
+          "image": "/pictures/samsung.png",
+          "quantity": 5
+        }
+      ],
+      "total": 7095,
+      "date": "2025-09-15T12:26:55.995Z",
+      "status": "paid",
+      "reference": "856500871"
+    },
+    {
+      "id": "d454",
+      "customer": {
+        "name": "kayode",
+        "email": "kayodeomoniyi319@gmail.com",
+        "phone": "9033019846",
+        "address": "yemutu, adabale strt"
+      },
+      "items": [
+        {
+          "id": "1",
+          "name": "iPhone 14 Pro",
+          "price": 1200,
+          "description": "The latest iPhone with A16 Bionic chip and Pro camera system.",
+          "image": "/pictures/iphone.png",
+          "quantity": 3
+        }
+      ],
+      "total": 3600,
+      "date": "2025-09-15T12:42:54.445Z",
+      "status": "paid",
+      "reference": "696846029"
+    },
+    {
+      "id": "29c9",
+      "customer": {
+        "name": "Raphael",
+        "email": "raphealajayi25@gmail.com",
+        "phone": "09026581498",
+        "address": "yemutu, adabale strt"
+      },
+      "items": [
+        {
+          "id": "3",
+          "name": "Sony WH-1000XM5",
+          "price": 350,
+          "description": "Noise-cancelling wireless headphones with premium sound.",
+          "image": "/pictures/Sony.png",
+          "quantity": 4
+        }
+      ],
+      "total": 1400,
+      "date": "2025-09-15T12:46:25.455Z",
+      "status": "paid",
+      "reference": "503886124"
+    },
+    {
+      "id": "0487",
+      "customer": {
+        "name": "Raphael",
+        "email": "raphealajayi25@gmail.com",
+        "phone": "9033019846",
+        "address": "yemutu, adabale strt"
+      },
+      "items": [
+        {
+          "id": "5",
+          "name": "Apple Watch Series 9",
+          "price": 499,
+          "description": "Smartwatch with health features and iPhone integration.",
+          "image": "/pictures/apple watch.png",
+          "quantity": 3
+        }
+      ],
+      "total": 1497,
+      "date": "2025-09-15T15:06:26.603Z",
+      "status": "paid",
+      "reference": "704116807"
+    },
+    {
+      "id": "7037",
+      "customer": {
+        "name": "Raphael",
+        "email": "raphealajayi25@gmail.com",
+        "phone": "9033019846",
+        "address": "yemutu, adabale strt"
+      },
+      "items": [
+        {
+          "id": "1",
+          "name": "iPhone 14 Pro",
+          "price": 1200,
+          "description": "The latest iPhone with A16 Bionic chip and Pro camera system.",
+          "image": "/pictures/iphone.png",
+          "quantity": 8
+        }
+      ],
+      "total": 9600,
+      "date": "2025-09-16T09:37:24.559Z",
+      "status": "paid",
+      "reference": "524351534"
+    },
+    {
+      "id": "b566",
+      "customer": {
+        "name": "Eniola Alex",
+        "email": "enihorlarharlex@gmail.com",
+        "phone": "08084552275",
+        "address": "yemutu, adabale strt"
+      },
+      "items": [
+        {
+          "id": "3",
+          "name": "Sony WH-1000XM5",
+          "price": 350,
+          "description": "Noise-cancelling wireless headphones with premium sound.",
+          "image": "/pictures/Sony.png",
+          "quantity": 1
+        },
+        {
+          "id": "6",
+          "name": "hisense 50 inch tv ",
+          "price": 700,
+          "description": "Smartwatch with health features and iPhone integration.",
+          "image": "/pictures/hisense tv.png",
+          "quantity": 1
+        },
+        {
+          "id": "5",
+          "name": "Apple Watch Series 9",
+          "price": 499,
+          "description": "Smartwatch with health features and iPhone integration.",
+          "image": "/pictures/apple watch.png",
+          "quantity": 1
+        },
+        {
+          "id": "15",
+          "name": "Hisense 24 inch Monitor ",
+          "price": 390.99,
+          "description": "Smartwatch with health features and iPhone integration.",
+          "image": "/pictures/iphone.png",
+          "quantity": 1
+        },
+        {
+          "id": "13",
+          "name": " 20000 Mah Ultra Slim Power Bank",
+          "price": 24.99,
+          "description": "Ace Elec | Similar Products From Ace ELect",
+          "image": "/pictures/iphone.png",
+          "quantity": 1
+        },
+        {
+          "id": "9",
+          "name": "7.5kg Twin Tub Washing Machine",
+          "price": 190.97,
+          "description": "Hisense | Similar products from Hisense",
+          "image": "/pictures/washing machine.png",
+          "quantity": 1
+        }
+      ],
+      "total": 2155.95,
+      "date": "2025-09-16T12:24:58.199Z",
+      "status": "paid",
+      "reference": "831191502"
+    },
+    {
+      "id": "508b",
+      "customer": {
+        "name": "Raphael",
+        "email": "raphealajayi25@gmail.com",
+        "phone": "9033019846",
+        "address": "yemutu, adabale strt"
+      },
+      "items": [
+        {
+          "id": "2",
+          "name": "Samsung Galaxy S23",
+          "price": 999,
+          "description": "Samsung's newest flagship with stunning camera and display.",
+          "image": "/pictures/samsung.png",
+          "quantity": 1
+        },
+        {
+          "id": "1",
+          "name": "iPhone 14 Pro",
+          "price": 1200,
+          "description": "The latest iPhone with A16 Bionic chip and Pro camera system.",
+          "image": "/pictures/iphone.png",
+          "quantity": 1
+        },
+        {
+          "id": "3",
+          "name": "Sony WH-1000XM5",
+          "price": 350,
+          "description": "Noise-cancelling wireless headphones with premium sound.",
+          "image": "/pictures/Sony.png",
+          "quantity": 1
+        }
+      ],
+      "total": 2549,
+      "date": "2025-09-17T10:37:55.730Z",
+      "status": "failed",
+      "reference": "871365831"
+    },
+    {
+      "id": "5879",
+      "customer": {
+        "name": "kayode",
+        "email": "kayodeomoniyi15@gmail.com",
+        "phone": "9033019846",
+        "address": "yemutu, adabale strt"
+      },
+      "items": [
+        {
+          "id": "3",
+          "name": "Sony WH-1000XM5",
+          "price": 350,
+          "description": "Noise-cancelling wireless headphones with premium sound.",
+          "image": "/pictures/Sony.png",
+          "quantity": 1
+        },
+        {
+          "id": "2",
+          "name": "Samsung Galaxy S23",
+          "price": 999,
+          "description": "Samsung's newest flagship with stunning camera and display.",
+          "image": "/pictures/samsung.png",
+          "quantity": 1
+        }
+      ],
+      "total": 1349,
+      "date": "2025-09-17T10:50:16.666Z",
+      "status": "failed",
+      "reference": "85628834"
+    },
+    {
+      "id": "d31d",
+      "customer": {
+        "name": "kayode",
+        "email": "kayodeomoniyi319@gmail.com",
+        "phone": "9033019846",
+        "address": "yemutu, adabale strt"
+      },
+      "items": [
+        {
+          "id": "3",
+          "name": "Sony WH-1000XM5",
+          "price": 350,
+          "description": "Noise-cancelling wireless headphones with premium sound.",
+          "image": "/pictures/Sony.png",
+          "quantity": 1
+        },
+        {
+          "id": "2",
+          "name": "Samsung Galaxy S23",
+          "price": 999,
+          "description": "Samsung's newest flagship with stunning camera and display.",
+          "image": "/pictures/samsung.png",
+          "quantity": 1
+        }
+      ],
+      "total": 1349,
+      "date": "2025-09-17T10:51:55.119Z",
+      "status": "paid",
+      "reference": "212641255"
+    }
+  ]
+}
