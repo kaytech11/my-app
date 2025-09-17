@@ -7,7 +7,7 @@ import "./index.css";
 import ProductDetails from "./pages/productdetails";
 import Checkout from "./pages/checkout";
 import OrderSuccess from "./pages/OrderSuccess";
-import ProductSearch from "./pages/productsearch";
+import ProductSearch from "./pages/Productsearch";
 import Signin from "./pages/Signin";
 import Signup from "./pages/Signup";
 import Account from "./pages/Account";
