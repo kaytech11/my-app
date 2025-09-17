@@ -1,33 +1,4 @@
 
-
-// import axios from "axios";
-
-// // Sign up a new user
-// export const signup = async (user) => {
-//   try {
-//     const res = await axios.post("http://localhost:3000/users", user);
-//     return res.data;
-//   } catch (err) {
-//     console.error("Signup error:", err);
-//     throw err;
-//   }
-// };
-
-// // Sign in user
-// export const signin = async (email, password) => {
-//   try {
-//     const res = await axios.get(
-//       `http://localhost:3000/users?email=${email}&password=${password}`
-//     );
-//     return res.data[0]; // return the first matching user
-//   } catch (err) {
-//     console.error("Signin error:", err);
-//     throw err;
-//   }
-// };
-
-
-// src/api/auth.js
 import axios from "axios";
 
 const API = "http://localhost:3000/users";

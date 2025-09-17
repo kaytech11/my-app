@@ -7,14 +7,14 @@ import "./index.css";
 import ProductDetails from "./pages/productdetails";
 import Checkout from "./pages/checkout";
 import OrderSuccess from "./pages/OrderSuccess";
-import ProductSearch from "./pages/Productsearch";
+import ProductSearch from "./pages/productSearch";
 import Signin from "./pages/Signin";
 import Signup from "./pages/Signup";
 import Account from "./pages/Account";
 import ProtectedRoute from "./pages/ProtectedRoute"; 
 import Orders from "./pages/Orders"
 import "./animation.css";
-import ResetPassword from "./pages/Resetpassword";
+import ResetPassword from "./pages/ResetPassword";
 
 function App() {
   return (
