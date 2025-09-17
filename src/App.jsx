@@ -27,7 +27,7 @@ function App() {
         <Route path="signin" element={<Signin />} /> {/* ✅ lowercase */}
         <Route path="reset-password" element={<ResetPassword />} /> {/* ✅ lowercase */}
         <Route path="signup" element={<Signup />} /> {/* ✅ lowercase */}
-        <Route path="productsearch" element={<ProductSearch />} /> {/* ✅ lowercase */}
+        <Route path="Productsearch" element={<ProductSearch />} /> {/* ✅ lowercase */}
         <Route path="orders" element={<Orders />} /> {/* ✅ lowercase */}
 
         {/* Protected routes */}
