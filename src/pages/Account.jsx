@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
-import ResetPassword from "./Resetpassword";
+// import ResetPassword from "../pages/ResetPassword";
 
 const Account = () => {
     const [user, setUser] = useState(null);
