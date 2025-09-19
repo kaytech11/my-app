@@ -33,7 +33,7 @@ export default defineConfig({
   server: {
     proxy: {
       "/api": {
-        target: "http://localhost:3000",   // ✅ json-server is running here
+        target: "http://localhost:5000",   // ✅ backend on port 5000
         changeOrigin: true,
         rewrite: (path) => path.replace(/^\/api/, ""),
       },

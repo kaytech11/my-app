@@ -2,8 +2,15 @@ import { useLocation, Link } from "react-router-dom";
 import { useQuery } from "@tanstack/react-query";
 import axios from "axios";
 
+// const fetchProducts = async () => {
+//   const res = await axios.get("http://localhost:3000/products");
+//   return res.data;
+// };
+
+const API_URL = import.meta.env.VITE_API_URL || "http://localhost:5000";
+
 const fetchProducts = async () => {
-  const res = await axios.get("http://localhost:3000/products");
+  const res = await axios.get(`${API_URL}/products`);
   return res.data;
 };
 

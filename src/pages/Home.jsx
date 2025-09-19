@@ -8,8 +8,15 @@ import { addToCart } from "../features/ecommerceSlice";
 import { useEffect, useState } from "react";
 import { resetJustSignedIn } from "../features/authSlice"; // 👈 reset flag after welcome
 
+// const fetchProducts = async () => {
+//   const res = await axios.get("http://localhost:3000/products");
+//   return res.data;
+// };
+
+const API_URL = import.meta.env.VITE_API_URL || "http://localhost:3000";
+
 const fetchProducts = async () => {
-  const res = await axios.get("http://localhost:3000/products");
+  const res = await axios.get(`${API_URL}/products`);
   return res.data;
 };
 

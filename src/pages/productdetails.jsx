@@ -6,9 +6,21 @@ import { useQuery } from "@tanstack/react-query";
 import axios from "axios";
 import { useState } from "react";
 
+// const fetchProduct = async (id) => {
+//   const res = await axios.get(`http://localhost:3000/products/${id}`); // Fetch product by ID
+//   return res.data;   // Return the product data
+// };
+
+const API_URL = import.meta.env.VITE_API_URL || "http://localhost:5000";
+
+// const fetchProducts = async () => {
+//   const res = await axios.get(`${API_URL}/products`);
+//   return res.data;
+// };
+
 const fetchProduct = async (id) => {
-  const res = await axios.get(`http://localhost:3000/products/${id}`); // Fetch product by ID
-  return res.data;   // Return the product data
+  const res = await axios.get(`${API_URL}/products/${id}`);
+  return res.data;
 };
 
 const ProductDetails = () => {
