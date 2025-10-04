@@ -1,7 +1,8 @@
 
 import axios from "axios";
 
-const API = "http://localhost:3000/users";
+const API = `${import.meta.env.VITE_API_URL}/users`;
+
 
 // Sign up a new user
 export const signup = async (user) => {
