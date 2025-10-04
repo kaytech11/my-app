@@ -113,7 +113,7 @@ const Checkout = () => {
     }
 
     const handler = window.PaystackPop.setup({
-      key: "pk_test_06954f90920eacd80e7908d6b67b1f1e186cbd17", // replace with your public key
+      key: "pk_test_06954f90920eacd80e7908d6b67b1f1e186cbd17", 
       email: form.email,
       amount: Math.round(totalPrice * 100),
       currency: "NGN",

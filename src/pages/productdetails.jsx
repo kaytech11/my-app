@@ -11,7 +11,7 @@ import { useState } from "react";
 //   return res.data;   // Return the product data
 // };
 
-const API_URL = import.meta.env.VITE_API_URL || "http://localhost:5000";
+const API_URL = import.meta.env.VITE_API_URL || "http://localhost:3000";
 
 // const fetchProducts = async () => {
 //   const res = await axios.get(`${API_URL}/products`);

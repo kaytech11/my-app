@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Eye, EyeOff } from "lucide-react"; // 👈 nice icons
+import { Eye, EyeOff } from "lucide-react"; 
 
 function PasswordInput({ value, onChange }) {
   const [showPassword, setShowPassword] = useState(false);
